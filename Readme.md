@@ -7,9 +7,8 @@
 |14 Feb - 15 Feb<br />Amsterdam|Vue.js Amsterdam<br />https://www.vuejs.amsterdam/|||
 |13 Mar<br />Utrecht|Future Tech<br />https://futuretech.nl/|||
 |1 Oct - 2 Oct<br/>Ede|Techorama NL<br/>https://techorama.nl/|||
+|17 June - 20 June<br/>Amsterdam|GOTO Amsterdam<br/>https://gotoams.nl/|||
 ||Techorama BE|||
-
-
 
 ## Europe
 
