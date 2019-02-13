@@ -5,14 +5,14 @@
 |Date|Name|Costs|Remarks|
 |----|----|-----|-------|
 |13 Mar<br />Utrecht|Future Tech<br />https://futuretech.nl/|||
-||Techorama NL|||
+|1 Oct - 2 Oct<br/>Ede|Techorama NL<br/>https://techorama.nl/|||
 ||Techorama BE|||
 
 ## Europe
 
 |Date|Name|Costs|Remarks|
 |----|----|-----|-------|
-|28 Jan - 1 Feb 2019<br/>London, |NDC London<br/>https://ndc-london.com/|||
+|28 Jan - 1 Feb<br/>London, |NDC London<br/>https://ndc-london.com/|||
 
 # USA
 
