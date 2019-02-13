@@ -2,22 +2,22 @@
 
 ## Europe
 
-|Date|Name|Costs|
-|----|----|-----|
-||NDC London||
-||Future Tech<br />https://futuretech.nl/||
-||Techorama NL||
-||Techorama BE||
+|Date|Name|Costs|Remarks|
+|----|----|-----|-------|
+||NDC London|||
+||Future Tech<br />https://futuretech.nl/|||
+||Techorama NL|||
+||Techorama BE|||
 
 # USA
 
-|Date|Name|Costs|
-|----|----|-----|
-||Microsoft Build||
-||Microsoft Ignite||
+|Date|Name|Costs|Remarks|
+|----|----|-----|-------|
+||Microsoft Build|||
+||Microsoft Ignite|||
 
 # Other
 
-|Date|Name|Costs|
-|----|----|-----|
-||NDC Sydney||
+|Date|Name|Costs|Remarks|
+|----|----|-----|-------|
+||NDC Sydney|||
