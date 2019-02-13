@@ -15,14 +15,18 @@
 
 |Date|Name|Costs|Remarks|
 |----|----|-----|-------|
-|28 Jan - 1 Feb<br/>London, |NDC London<br/>https://ndc-london.com/|||
+|28 Jan - 1 Feb<br/>London|NDC London<br/>https://ndc-london.com/|||
 
 # USA
 
 |Date|Name|Costs|Remarks|
 |----|----|-----|-------|
+|3 Mar - 8 Mar<br/>Las Vegas|Visual Studio Live!<br />https://vslive.com/events/las-vegas-2019/|||
 ||Microsoft Build|||
 ||Microsoft Ignite|||
+
+
+
 
 # Other
 
