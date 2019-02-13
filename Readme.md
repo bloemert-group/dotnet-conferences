@@ -25,10 +25,8 @@
 |----|----|-----|-------|
 |3 Mar - 8 Mar<br/>Las Vegas|Visual Studio Live!<br />https://vslive.com/events/las-vegas-2019/|||
 |6 May - 8 May<br/>Seattle|Microsoft Build<br/>https://www.microsoft.com/en-us/build|||
+|10 June - 13 June<br/>San Jose, CA|O’Reilly Software Architecture Conference<br/>https://conferences.oreilly.com/software-architecture/sa-ca|||
 ||Microsoft Ignite|||
-
-
-
 
 # Other
 
