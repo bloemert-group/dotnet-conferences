@@ -4,7 +4,7 @@
 
 |Date|Name|Costs|Remarks|
 |----|----|-----|-------|
-||NDC London|||
+|28 Jan-1 Feb 2019<br/>London|NDC London<br/>https://ndc-london.com/|||
 ||Future Tech<br />https://futuretech.nl/|||
 ||Techorama NL|||
 ||Techorama BE|||
