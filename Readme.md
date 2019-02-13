@@ -4,10 +4,11 @@
 
 |Date|Name|Costs|Remarks|
 |----|----|-----|-------|
-|14 Feb - 15 Feb<br />Amsterdam|Vue.js Amsterdam<br />https://www.vuejs.amsterdam/|||
+|14 Feb - 15 Feb<br />Amsterdam|Vue.js Amsterdam<br />https://www.vuejs.amsterdam/||Frontend, Vue|
 |13 Mar<br />Utrecht|Future Tech<br />https://futuretech.nl/|||
-|1 Oct - 2 Oct<br/>Ede|Techorama NL<br/>https://techorama.nl/|||
+|10 Apr - 12 Apr<br/>Amsterdam|React Amsterdam <br/>https://react.amsterdam/||Frontend, React|
 |17 June - 20 June<br/>Amsterdam|GOTO Amsterdam<br/>https://gotoams.nl/|||
+|1 Oct - 2 Oct<br/>Ede|Techorama NL<br/>https://techorama.nl/|||
 ||Techorama BE|||
 
 ## Europe
