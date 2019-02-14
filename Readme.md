@@ -14,11 +14,12 @@
 
 |Date|Name|Costs|Remarks|
 |----|----|-----|-------|
-|28 Jan - 1 Feb<br/>London|NDC London<br/>https://ndc-london.com/|||
-|4 Mar - 8 Mar<br/>London|QCon<br/>https://qconlondon.com/|||
-|4 Apr - 5 Apr<br/>London|F# eXchange 2019<br/>https://skillsmatter.com/conferences/10869-f-sharp-exchange-2019|||
-|7 May - 10 May<br/>Budapest|Craft<br/>https://craft-conf.com/|||
-|20 May - 22 May<br/>Antwerp|Techorama BE<br/>https://techorama.be/|||
+|28 Jan - 1 Feb<br/>London, UK|NDC London<br/>https://ndc-london.com/|||
+|4 Mar - 8 Mar<br/>London, UK|QCon<br/>https://qconlondon.com/|||
+|4 Apr - 5 Apr<br/>London, UK|F# eXchange 2019<br/>https://skillsmatter.com/conferences/10869-f-sharp-exchange-2019|||
+|7 May - 10 May<br/>Budapest, Hungary|Craft<br/>https://craft-conf.com/|||
+|20 May - 22 May<br/>Antwerp, Belgium|Techorama BE<br/>https://techorama.be/|||
+|6 Nov - 8 Nov<br/>Malmo, Sweden|Øredev<br/>http://oredev.org|||
 
 # USA
 
@@ -37,7 +38,7 @@
 
 
 Todo:
-- http://oredev.org
+- 
 - https://gotocph.com/2019
 - https://vslive.com/Home.aspx
 - https://gotober.com/
