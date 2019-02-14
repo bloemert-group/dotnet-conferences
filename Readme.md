@@ -9,7 +9,6 @@
 |10 Apr - 12 Apr<br/>Amsterdam|React Amsterdam <br/>https://react.amsterdam/||Frontend, React|
 |17 June - 20 June<br/>Amsterdam|GOTO Amsterdam<br/>https://gotoams.nl/|||
 |1 Oct - 2 Oct<br/>Ede|Techorama NL<br/>https://techorama.nl/|||
-||Techorama BE|||
 
 ## Europe
 
@@ -19,6 +18,7 @@
 |4 Mar - 8 Mar<br/>London|QCon<br/>https://qconlondon.com/|||
 |4 Apr - 5 Apr<br/>London|F# eXchange 2019<br/>https://skillsmatter.com/conferences/10869-f-sharp-exchange-2019|||
 |May 7 - May 10<br/>Budapest|Craft<br/>https://craft-conf.com/|||
+||Techorama BE|||
 
 # USA
 
