@@ -34,3 +34,23 @@
 |Date|Name|Costs|Remarks|
 |----|----|-----|-------|
 ||NDC Sydney|||
+
+
+Todo:
+- http://oredev.org
+- https://gotocph.com/2019
+- https://vslive.com/Home.aspx
+- https://gotober.com/
+- https://smashingconf.com/ny-2019/
+- https://smashingconf.com/toronto-2019/
+- https://axoniq.io/event-overview/event-driven-microservices-conference
+- https://conferences.oreilly.com/software-architecture/sa-eu
+- https://conferences.oreilly.com/software-architecture/sa-ca
+- https://devoxx.be/ (more JVM)
+- https://www.microsoft.com/en-us/ignite
+- https://www.thestrangeloop.com/
+- https://2019.jsconf.us/
+- https://2019.jsconf.eu/
+- https://www.devopsdays.org/events/2019-amsterdam/welcome/
+- https://ndcoslo.com/
+- https://www.wearedevelopers.com/
