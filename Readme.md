@@ -16,7 +16,7 @@
 |Date|Name|Costs|Remarks|
 |----|----|-----|-------|
 |28 Jan - 1 Feb<br/>London|NDC London<br/>https://ndc-london.com/|||
-|4 Mar - 8 Mar<br/>London<br/>https://qconlondon.com/|QCon|||
+|4 Mar - 8 Mar<br/>London|QCon<br/>https://qconlondon.com/|||
 |4 Apr - 5 Apr<br/>London|F# eXchange 2019<br/>https://skillsmatter.com/conferences/10869-f-sharp-exchange-2019|||
 |May 7 - May 10<br/>Budapest|Craft<br/>https://craft-conf.com/|||
 
