@@ -40,15 +40,19 @@
 
 
 Todo:
-- 
-- https://gotocph.com/2019
+
+- https://fosdem.org/2019/
 - https://vslive.com/Home.aspx
 - https://gotober.com/
+- https://gotochgo.com/
+- https://gotocph.com/2019
 - https://smashingconf.com/ny-2019/
 - https://smashingconf.com/toronto-2019/
 - https://axoniq.io/event-overview/event-driven-microservices-conference
+- https://conferences.oreilly.com/software-architecture/sa-ny
 - https://conferences.oreilly.com/software-architecture/sa-eu
 - https://conferences.oreilly.com/software-architecture/sa-ca
+- https://conferences.oreilly.com/oscon/oscon-or
 - https://devoxx.be/ (more JVM)
 - https://www.microsoft.com/en-us/ignite
 - https://www.thestrangeloop.com/
@@ -57,3 +61,12 @@ Todo:
 - https://www.devopsdays.org/events/2019-amsterdam/welcome/
 - https://ndcoslo.com/
 - https://www.wearedevelopers.com/
+- https://www.react-europe.org/
+- https://www.docker.com/dockercon/
+- http://gluecon.com/
+- https://www.developerweek.com/
+- https://www.devintersection.com/
+- https://devopsconference.de/
+- https://qconnewyork.com/
+- https://www.devopssummitamsterdam.com/
+- https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/
