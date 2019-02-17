@@ -13,9 +13,9 @@
 
 ## Europe
 
-|Date|Name|Costs|Remarks|
-|----|----|-----|-------|
-|28 Jan - 1 Feb<br/>London, UK|NDC London<br/>https://ndc-london.com/|||
+|Date|Name|Costs|Remarks|Recordings|
+|----|----|-----|-------|----------|
+|28 Jan - 1 Feb<br/>London, UK|NDC London<br/>https://ndc-london.com/|||[YouTube](https://www.youtube.com/playlist?list=PL03Lrmd9CiGfouFw_eoMCIe0Pq4lM6ygn)|
 |21 Feb - 22 Feb<br/>Krakow, Poland|Lambda Days<br/>http://www.lambdadays.org/lambdadays2019|||
 |4 Mar - 8 Mar<br/>London, UK|QCon<br/>https://qconlondon.com/|||
 |4 Apr - 5 Apr<br/>London, UK|F# eXchange 2019<br/>https://skillsmatter.com/conferences/10869-f-sharp-exchange-2019|||
