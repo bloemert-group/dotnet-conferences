@@ -42,7 +42,6 @@
 
 Todo:
 
-- https://fosdem.org/2019/
 - https://vslive.com/Home.aspx
 - https://gotober.com/
 - https://gotochgo.com/
@@ -71,3 +70,4 @@ Todo:
 - https://qconnewyork.com/
 - https://www.devopssummitamsterdam.com/
 - https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/
+- https://www.openfsharp.org/
