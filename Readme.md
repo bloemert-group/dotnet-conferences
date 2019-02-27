@@ -6,6 +6,7 @@
 |----|----|-----|-------|
 |14 Feb - 15 Feb<br />Amsterdam|Vue.js Amsterdam<br />https://www.vuejs.amsterdam/||Frontend, Vue|
 |13 Mar<br />Utrecht|Future Tech<br />https://futuretech.nl/|||
+|14 Mar<br />Utrecht|DevOn Summit<br />https://www.devon.nl/|||
 |20 Mar - 22 Mar<br/>Amsterdam|Microsoft Ignite \| The Tour<br/>https://www.microsoft.com/nl-nl/ignite-the-tour/amsterdam|Free||
 |10 Apr - 12 Apr<br/>Amsterdam|React Amsterdam <br/>https://react.amsterdam/||Frontend, React|
 |17 June - 20 June<br/>Amsterdam|GOTO Amsterdam<br/>https://gotoams.nl/|||
