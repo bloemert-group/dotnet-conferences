@@ -18,7 +18,7 @@
 |----|----|-----|-------|----------|
 |28 Jan - 1 Feb<br/>London, UK|NDC London<br/>https://ndc-london.com/|||[YouTube](https://www.youtube.com/playlist?list=PL03Lrmd9CiGfouFw_eoMCIe0Pq4lM6ygn)|
 |2 Feb - 3 Feb<br/>Brussels, Belgium|FOSDEM<br/>https://fosdem.org/2019/|Free||[YouTube](https://www.youtube.com/playlist?list=PL_QKjHDgmNzrDhscKpNCbMtNYzqg6Srkr)|
-|21 Feb - 22 Feb<br/>Krakow, Poland|Lambda Days<br/>http://www.lambdadays.org/lambdadays2019|||
+|21 Feb - 22 Feb<br/>Krakow, Poland|Lambda Days<br/>http://www.lambdadays.org/lambdadays2019||[YouTube](https://www.youtube.com/playlist?list=PLvL2NEhYV4ZvCRCVlXTfB6-d09K3r0Sxa)|
 |4 Mar - 8 Mar<br/>London, UK|QCon<br/>https://qconlondon.com/|||
 |4 Apr - 5 Apr<br/>London, UK|F# eXchange 2019<br/>https://skillsmatter.com/conferences/10869-f-sharp-exchange-2019|||
 |7 May - 10 May<br/>Budapest, Hungary|Craft<br/>https://craft-conf.com/|||
